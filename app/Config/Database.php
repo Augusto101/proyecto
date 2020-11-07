@@ -31,7 +31,7 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => '127.0.0.1',
+		'hostname' => '127.0.0.1:50250',
 		'username' => 'azure',
 		'password' => '6#vWHD_$',
 		'database' => 'distribuidoracastillo2',
