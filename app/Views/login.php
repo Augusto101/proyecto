@@ -27,7 +27,7 @@ $user_session = session();
                 <div class="card-header"><h3 class="text-center font-weight-light my-4">Iniciar sesion</h3></div>
                 <div class="card-body">
 
-                  <form method="post" action="<?php echo base_url(); ?>/usuarios/valida" >
+                  <form method="post" action="<?php echo base_url(); ?>/usuarios/insertar" >
                     <div class="form-group">
                       <label class="small mb-1" for="usuario">usuario</label>
                       <input class="form-control py-4" id="usuario" name="usuario" type="text" placeholder="Ingresa tu usuario" />
