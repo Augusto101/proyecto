@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/DistribuidoraCastilloAvance/public/';
+	public $baseURL = 'http://distribuidoracastillo.azurewebsites.net/public';
 
 	/*
 	|--------------------------------------------------------------------------
